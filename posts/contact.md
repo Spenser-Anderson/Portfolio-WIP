@@ -5,10 +5,8 @@ navTitle: Contact
 tags: post
 ---
 
-<h2>Drop me a line. </h2>
+Drop me a line.
 
 <ul>
   <li>YouCanEmailMeHere@NotReally.Com</li>
 </ul>
-
-[Home](/)

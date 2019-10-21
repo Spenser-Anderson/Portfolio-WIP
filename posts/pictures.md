@@ -14,4 +14,3 @@ images:
 
 Art belongs to Hiroaki!
 <br>
-[Home](/)

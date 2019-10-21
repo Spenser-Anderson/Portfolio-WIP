@@ -5,10 +5,10 @@
 // document.addEventListener('click', Active);
 let link = document.querySelectorAll('.siteNav ul li a');
 
-link.addEventListener('click', makeActive);
+document.addEventListener('click', makeActive);
 
 function makeActive() {
-  if (!event.target.matches('.siteNav ul li a')) return;
+  if (!event.target.matches('.siteNav')) return;
   makeInactive();
   event.target.classList.add('active');
 }
