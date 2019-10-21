@@ -47,6 +47,17 @@ header ul {
   margin: 0px 60px; 
 } */
 
+.blerb .webDev {
+}
+
+aside img {
+  padding-left: 7px;
+  width: 500px;
+  float: right;
+  /* display: inline-flex;
+  padding-right: 30px; */
+}
+
 .content {
   /* margin-top: 1rem; */
   padding: 1rem;
