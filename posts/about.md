@@ -7,10 +7,12 @@ images:
   - SelfieExport.jpg
 ---
 
+Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 Junior Web Developer in the making. Illustrator on the side.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
 <article class="blerb">
-
+<!-- <button id="gitStuff">Git Data</button> -->
 <p>
   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium
   reprehenderit sint sequi dolor aliquam? Quidem cumque ut doloribus. Commodi
@@ -19,9 +21,6 @@ Junior Web Developer in the making. Illustrator on the side.
 </p>
 <aside><img src="/img/SelfieExport.png"></aside>
 <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium
-reprehenderit sint sequi dolor aliquam? Quidem cumque ut doloribus. Commodi
-dignissimos dolorum
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium
 reprehenderit sint sequi dolor aliquam? Quidem cumque ut doloribus. Commodi
 dignissimos dolorum odit aliquam corporis autem illo nulla temporibus incidunt
 architecto. odit aliquam corporis autem illo nulla temporibus incidunt
@@ -40,5 +39,6 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium reprehender
 <li>audantium reprehender</li>
 <p class="readMore">Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p>
 </ul>
-<button>Read More</button>
+<button id="read">Read More</button>
+
 </article>
