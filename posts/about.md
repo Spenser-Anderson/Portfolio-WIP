@@ -30,17 +30,15 @@ architecto. </p>
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p>
 <ul>
 <li>odit aliquam corporis</li>
-<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p>
+<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p></span>
 <li>orem ipsum dolor</li>
-<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p>
+<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p></span>
 <li>uidem cumque ut dolor</li>
-<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p>
+<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p></span>
 <li>dolorum odit aliquam</li>
-<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p>
+<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p></span>
 <li>audantium reprehender</li>
-<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p>
+<span class="readMore"><p>Sitamet consectetur adipisicing elit. Laudantium reprehenderit sint sequi dolor aliquam? Quidem cumque ut dolor architecto. </p></span>
 </ul>
-
 <button>Read More</button>
-
 </article>
