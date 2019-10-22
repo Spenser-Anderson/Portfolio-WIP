@@ -65,7 +65,7 @@ var gitProfile = 'https://api.github.com/users/spenser-anderson';
 //     .then(json => addContent(json));
 // };
 
-document.getElementById('gitStuff').addEventListener('click', getProfileData);
+// document.getElementById('gitStuff').addEventListener('click', getProfileData);
 
 function getProfileData() {
   fetch('gitProfile')
