@@ -84,3 +84,7 @@ aside img {
   aside img {
     width: 150px;
   }
+
+  span {
+    display: none;
+  }
